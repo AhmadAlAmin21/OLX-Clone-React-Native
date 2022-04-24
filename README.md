@@ -1,2 +1,2 @@
 # OLX-Clone-React-Native
-<img src="images/1.jpg" width=230 />
+<img src="images/1.jpg" width=250 />
