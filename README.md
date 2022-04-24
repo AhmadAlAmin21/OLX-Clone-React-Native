@@ -7,4 +7,3 @@
 <img src="images/5.jpg" width=250 />
 <img src="images/6.jpg" width=250 />
 <img src="images/7.jpg" width=250 />
-<img src="images/10.jpg" width=250 />
